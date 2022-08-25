@@ -84,3 +84,7 @@ $ make generate
 # Todo
 - Fix more unit tests
 - Make built-in function parsing work
+
+### Thanks to the contributors of postgresql-parser!
+
+[//]: contributor-faces
